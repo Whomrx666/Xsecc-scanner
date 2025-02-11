@@ -24,12 +24,12 @@ $ python3 Xsecc-scanner.py
 - **last**: The tool will automatically scan and also find a vulnerability that you have entered.
 
 ## Feature
-• XSS (Cross-Site Scripting) Detection
-• SQL Injection Detection
-• Local File Inclusion (LFI) Detection
-• Open Redirect Detection
-• Single & Multi-Target Mode
-• Interactive Colored Output
+- XSS (Cross-Site Scripting) Detection
+- SQL Injection Detection
+- Local File Inclusion (LFI) Detection
+- Open Redirect Detection
+- Single & Multi-Target Mode
+- Interactive Colored Output
 
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
